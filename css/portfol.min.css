@@ -106,6 +106,10 @@ ul {
 .mobile-close-button:hover .mobile-close-icon {
   fill: var(--nav-color);
 }
+.mobile-div-social-contacts {
+  position: absolute;
+  bottom: 100px;
+}
 /*Стили mobile-header-nav*/
 .mobile-header-nav {
   list-style: none;
